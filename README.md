@@ -2,7 +2,7 @@
 
 The Jupyter Notebook in this repository is a self-guided tutorial that walks the reader through writing a simple processing script using LSST Data Management Python libraries.
 
-If you are going through this tutorial at the LSST2017 Project and Community Workshop, you can drop by the DM Hack Room to find people who can help you with any questions you have.  The DM Hack Room will be running continuously during all parallel sessions, but we'd recommend you come during one of the sessions below to guarantee you can find someone who knows about the tutorial:
+If you are going through this tutorial at the LSST2017 Project and Community Workshop, you can drop by the DM Hack Room ("Cottonwood") to find people who can help you with any questions you have.  The DM Hack Room will be running continuously during all parallel sessions, but we'd recommend you come during one of the sessions below to guarantee you can find someone who knows about the tutorial:
 
  - Monday 9:00am - 10:30am
  - Monday 11:00am - 12:30pm
