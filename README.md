@@ -9,9 +9,10 @@ If you are going through this tutorial at the LSST2017 Project and Community Wor
  - Tuesday 1:30pm - 3:00pm
  - Wednesday 11:00am - 12:30pm
  - Thursday 11:00am - 12:30pm
- - Friday 11:00am - 12:30 pm
- - Friday 1:30pm - 3:00 pm
- - Friday 3:30pm - 5:00 pm
+ - Thursday 3:30pm - 5:00pm
+ - Friday 11:00am - 12:30pm
+ - Friday 1:30pm - 3:00pm
+ - Friday 3:30pm - 5:00pm
 
 If you're at LSST2017, you can use a JupyterLab environment (a technology we're considering as a major component for the LSST Science Platform) we've set up for the meeting.  To do so, request membership in the [`lsst-dm-tutorial` GitHub organization](https://github.com/lsst-dm-tutorial) -- you may need to drop by the DM Hack Room to have one our organizers confirm your identity if your GitHub account isn't one we recognize.
 
