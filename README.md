@@ -4,8 +4,6 @@ The Jupyter Notebook in this repository is a self-guided tutorial that walks the
 
 If you are going through this tutorial at the LSST2017 Project and Community Workshop, you can drop by the DM Hack Room ("Cottonwood") to find people who can help you with any questions you have.  The DM Hack Room will be running continuously during all parallel sessions, but we'd recommend you come during one of the sessions below to guarantee you can find someone who knows about the tutorial:
 
- - Monday 9:00am - 10:30am
- - Monday 11:00am - 12:30pm
  - Tuesday 1:30pm - 3:00pm
  - Wednesday 11:00am - 12:30pm
  - Thursday 11:00am - 12:30pm
@@ -14,7 +12,7 @@ If you are going through this tutorial at the LSST2017 Project and Community Wor
  - Friday 1:30pm - 3:00pm
  - Friday 3:30pm - 5:00pm
 
-If you're at LSST2017, you can use a JupyterLab environment (a technology we're considering as a major component for the LSST Science Platform) we've set up for the meeting.  To do so, request membership in the [`lsst-dm-tutorial` GitHub organization](https://github.com/lsst-dm-tutorial) -- you may need to drop by the DM Hack Room to have one our organizers confirm your identity if your GitHub account isn't one we recognize.
+If you're at LSST2017, you can use a JupyterLab environment (a technology we're considering as a major component for the LSST Science Platform) we've set up for the meeting.  To do so, request membership in the [`lsst-dm-tutorial` GitHub organization](https://github.com/lsst-dm-tutorial) -- you may need to drop by the DM Hack Room to have one our organizers confirm your identity if your GitHub account isn't one we recognize.  This may not be available until Tuesday.
 
 You should then be able to log into https://tutorial.lsst.codes, using your GitHub credentials.  Once there, start a server, spawn an environment, and  open a terminal.  Then do:
 
