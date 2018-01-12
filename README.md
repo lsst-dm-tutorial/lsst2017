@@ -21,6 +21,6 @@ git checkout answers
 ```
 That will run through with no errors (there are some warnings you can ignore, they will be addressed soon)
 
-**IMPORTANT: When you are not actually working on the tutorial, please release resources for other users by using the menu to save and exit the JupyterLab environment (File->Save All Exit and Logout) .  The next time you log in, the notebook cells you've worked through will have to be re-executed, but otherwise everything should be as you left it.**
+**IMPORTANT: When you are not actually working on the tutorial, please release resources for other users by using the menu to save and exit the JupyterLab environment (File->Save All Exit and Logout) and CLOSE YOUR BROWSER TAB when instructed.  The next time you log in, the notebook cells you've worked through will have to be re-executed, but otherwise everything should be as you left it.**
 
 It also should be possible to run the tutorial notebook on any system on which the LSST stack (version `w_2018_01` is recommended) has been installed.  Instructions for installing the stack can be found at http://pipelines.lsst.io.
